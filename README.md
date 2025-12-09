@@ -1,3 +1,5 @@
+*** ATENÇÃO: A FERRAMENTA USADA FOI FORMS 6i QUE ERA A DISPONIVEL NO MOMENTO ***
+
 # Aplicação Oracle Forms 6i - CRUD de Clientes
 
 Este repositório contém o projeto desenvolvido para a prova prática,
